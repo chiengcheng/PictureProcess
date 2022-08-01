@@ -1,0 +1,14 @@
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\bin\Release\PictureProcess.dll
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\bin\Release\PictureProcess.pdb
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\bin\Release\SharpShell.dll
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\bin\Release\SharpShell.xml
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\obj\Release\PictureProcess.Properties.Resources.resources
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\obj\Release\PictureProcess.csproj.GenerateResource.cache
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\obj\Release\PictureProcess.csproj.CoreCompileInputs.cache
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\obj\Release\PictureProcess.csproj.CopyComplete
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\obj\Release\PictureProcess.dll
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\obj\Release\PictureProcess.pdb
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\bin\Release\Properties\Resources.resx
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\bin\Release\Properties\AssemblyInfo.cs
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\bin\Release\Properties\Resources.Designer.cs
+D:\文档\学习\大创\图像处理\PictureProcess\PictureProcess\obj\Release\PictureProcess.csproj.AssemblyReference.cache
