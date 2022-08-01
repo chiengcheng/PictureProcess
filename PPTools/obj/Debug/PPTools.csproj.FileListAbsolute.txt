@@ -1,0 +1,8 @@
+D:\文档\学习\大创\图像处理\PictureProcess\PPTools\bin\Debug\PPTools.exe.config
+D:\文档\学习\大创\图像处理\PictureProcess\PPTools\bin\Debug\PPTools.exe
+D:\文档\学习\大创\图像处理\PictureProcess\PPTools\bin\Debug\PPTools.pdb
+D:\文档\学习\大创\图像处理\PictureProcess\PPTools\obj\Debug\PPTools.csproj.SuggestedBindingRedirects.cache
+D:\文档\学习\大创\图像处理\PictureProcess\PPTools\obj\Debug\PPTools.csproj.CoreCompileInputs.cache
+D:\文档\学习\大创\图像处理\PictureProcess\PPTools\obj\Debug\PPTools.exe
+D:\文档\学习\大创\图像处理\PictureProcess\PPTools\obj\Debug\PPTools.pdb
+D:\文档\学习\大创\图像处理\PictureProcess\PPTools\obj\Debug\PPTools.csproj.AssemblyReference.cache
